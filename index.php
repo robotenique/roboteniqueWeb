@@ -6,7 +6,7 @@
 	    <div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<img src="assets/img/user.png" alt="Stanley">
+					<img src="assets/img/user.png" alt="Robotenique" width="auto" height="auto">
 					<h1>Welcome to the void~</h1>
 					<p>Hello everybody, this is my personal page. Here I write some interesting things and sometimes share my programming exercises and other programming I do sometimes :)    </p>
 					<h4>Feel free to check my GitHub ➙ <a href="https://github.com/robotenique">

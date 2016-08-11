@@ -42,10 +42,8 @@
 	    <div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
-					<p><img src="assets/img/user.png" width="50px" height="50px"> <ba>Stanley Stinson</ba></p>
-					<p><bd>January 01, 2014</bd></p>
-					<h4>Believe In Yourself</h4>
-					<p class="bq">"A bird sitting on a tree is never afraid of the branch breaking, because her trust is not in the branch, but in her own wings."</p>
+					<p><ba>Interesting Links</ba></p>					
+					<p class="bq"><a href="https://bots.botframework.com/bot?id=MorphiBot">MorphBot (Microsoft)</a></p>
 				</div>
 
 			</div><!-- /row -->
