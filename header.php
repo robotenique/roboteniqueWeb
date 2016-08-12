@@ -39,9 +39,9 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="prog/programming.php">Programming</a></li>
-            <li><a href="about.php">About</a></li>
             <li><a href="ram.php">Random Access Memory</a></li>
+            <li><a href="about.php">About</a></li>            
+            <li><a href="prog/programming.php">Programming</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
