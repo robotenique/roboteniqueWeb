@@ -95,7 +95,7 @@ a:after {
 }
 
 .navbar-inverse {
-	background: url("../img/bkgtest.jpg");	
+	background: url("../img/staticBg.gif");	
 	border-color: #16a085;
 }
 
@@ -151,7 +151,8 @@ a:after {
 
 
 #footer {
-	background-color: #2f2f2f;
+	/*background-color: #22ffff;*/
+	background: url("../img/staticBg2.gif");	
 	padding-top: 50px;
 	padding-bottom: 50px; 
 }
@@ -164,6 +165,11 @@ a:after {
 	color: white;
 	text-transform: uppercase;
 	padding-bottom: 20px;
+}
+
+
+.smpFix {
+	width: 200px;
 }
 
 
