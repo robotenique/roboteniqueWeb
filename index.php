@@ -24,29 +24,29 @@
 	<div class="container pt">
 		<div class="row mt centered">	
 			<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
+				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
 				<p>† عميق MOLLIWATER † </p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
+				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
 				<p>☥ シ EYEZ ☥ </p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
+				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
 				<p>± YUNG SL1ME ± </p>
 			</div>
 		</div><!-- /row -->
 		<div class="row mt centered">	
 			<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
+				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
 				<p>//◭// の男 S§S //◭// </p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
+				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
 				<p>## SAMSUNG ∞CHVRCH ## </p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
+				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
 				<p>▽▽ CVLT SWΞG ▽▽ </p>
 			</div>
 		</div><!-- /row -->
