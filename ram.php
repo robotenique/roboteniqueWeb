@@ -1,13 +1,13 @@
 	
 <?php include 'header.php' ?>
 <div class="row mt">
-	<div class="col-lg-6 col-lg-offset-3 centered">
-		<h3>﻿ＩＮＴＥＲＥＳＴＩＮＧ  ＬＩＮＫＳ</h3>
-		<hr>
+		<div class="col-lg-6 col-lg-offset-3 centered">
+			<h3>﻿ＲＥＣＯＭＭＥＮＤＥＤ  ＬＩＮＫＳ</h3>
+			<hr>
 		</div>
-	</div>
+</div>
 	<!-- +++++ Second Post +++++ -->
-	<div id="white">
+	
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
@@ -25,66 +25,231 @@
 									<li class="list-group-item">&#8594;
 										<a href="http://www.fast-files.com/">
 											Fast Files
-										</a> - 
+										</a> - Simple and easy file uploading website.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.wolframalpha.com/">
 											Wolfram Alpha
-										</a> - 
+										</a> - Mathematical and knowledge based search and programming.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://postimage.org/">
 											PostImage
-										</a> - 
+										</a> - Simple and easy image upload.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.behindthename.com/random/">
 											Fantasy name generator											
-										</a> - 
+										</a> - Can generate random names with parameters customized by the user.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://crazydavinci.net/tools/strikethrough-text-generator/">
 											Strikethrough text generator										
-										</a> - 
+										</a> - Generate a text with a line through it, and some other text basic stylization.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.worldometers.info/pt/">
 											WorldoMeters										
-										</a> - 
+										</a> - The world in numbers.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://picascii.com/">
 											Picture to ASCII converter																						
-										</a> - 
+										</a> - As the name implies, covert pictures to ASCII text.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.di.fm/">
 											Digitally Imported					
-										</a> - 
+										</a> - Online eletronic music radio streaming for free, great for programming.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://comicsans.de/">
 											Comic Sans Machine										
-										</a> - 
+										</a> - Transform all the content of a text in Comic Sans.
 									</li>
 									<li class="list-group-item">&#8594;
-										<a href="">
-																						
-										</a> - 
+										<a href="https://stackedit.io/">
+											StackEdit											
+										</a> - In-browser markdown editor.
 									</li>
 									<li class="list-group-item">&#8594;
-										<a href="">
-																						
-										</a> - 
+										<a href="http://gen.lib.rus.ec/">
+											Library Genesis											
+										</a> - Collection of ebooks / PDF's scattered throughout the internet.
 									</li>
 								</ul>
 							</div>
-						</div>					
+						</div>
+					<div class="smpFix">
+						<p>
+						<a class="btn btn-primary btn-block" data-toggle="collapse" href="#cllps5" aria-expanded="false" aria-controls="cllps5">
+					Computer Science
+					</a>
+						</p>
 					</div>
+						<div class="collapse" id="cllps5">
+							<div class="card card-block">
+								<ul class="list-group">																	
+									<li class="list-group-item">&#8594;
+										<a href="http://exercism.io/">
+										Exercism
+										</a> 
+										- An amazing collection of different programming languages exercises, and you can also submit your solution for feedback.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.extremeprogramming.org/rules.html">
+											The Rules of Extreme Programming
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://bigocheatsheet.com/">
+											Big-O Cheat Sheet
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.programmableweb.com/">
+											ProgrammableWeb										
+										</a> - List of almost all kinds of Web API's.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://codebeautify.org/">
+											CodeBeautify									
+										</a> - Very useful website, which contains JSON validator, HTML minifier, beautifier, and lots of other different features. 
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/part_preface.html">
+											How to Design Programs																						
+										</a> 
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="https://mega.nz/#F!wVsCjS7A!K7jrAMW6b7RX_AC6TT3msA!IMsBiYLJ">
+											CS Mega folder											
+										</a> - 'Megaupload' folder with lots of useful books and articles for IT, the majority of them are in portuguese.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.devall.com.br/">
+											/dev/All								
+										</a> - IT articles aggregator, in portuguese.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://learnyouahaskell.com/chapters">
+											Learn you a Haskell											
+										</a> - Book to learn the Haskell prog. language. 
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://graphics.stanford.edu/~seander/bithacks.html">
+											Bit Twiddling Hacks										
+										</a> - Code snippets in C language for common binary operations.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.sourcecodesworld.com/project-bank/">
+												Project Bank										
+										</a> - Lots of different project ideas to implement.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="https://github.com/diogocezar/dctb-web-project/ ">
+												Web Development 101										
+										</a> - Portuguese explanation about the steps of a common Web project development.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="https://github.com/open-source-society/computer-science">
+											Open Computer Science									
+										</a> - A full course that covers many Computer Science subjects with online courses.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://it-ebooks-search.info/">
+											IT ebooks									
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.7qfrlko27">
+											Programming resources							
+										</a> - Lot's of very useful links to guides, tutorials, articles and books to learn different programming languages and algorithms approaches.
+									</li>
+
+								</ul>
+							</div>
+						</div>							
+					
+					<div class="smpFix">
+						<p>
+							<a class="btn btn-primary btn-block" data-toggle="collapse" href="#cllps6" aria-expanded="false" aria-controls="cllps6">
+					Opinion Articles
+					</a>
+						</p>
+					</div>
+						<div class="collapse" id="cllps6">
+							<div class="card card-block">
+								<ul class="list-group">
+									<li class="list-group-item">
+										<h4> <u> Note: Most of the articles in this section are in portuguese</u></h4> 
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://spot.colorado.edu/~morristo/kalam-not.pdf">
+											A critical examination of the Kalam Cosmological Argument
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.espacoacademico.com.br/091/91andrioli.htm">
+											Os liberais e a fragilidade do capitalismo
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://informadordeopiniao.blogspot.com/2014/11/os-chistes-sobre-indices-de-liberdade.html?m=1">
+											A realidade sobre os "índices de liberdade econômica"
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://ref.scielo.org/3wn4gr">
+											Mal-estar no pós-neoliberalismo
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="https://www.psychologicalscience.org/index.php/news/releases/political-extremists-may-be-less-susceptible-to-common-cognitive-bias.html">
+											Political Extremists Are Less Susceptible to Common Cognitive Bias
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://www.genismo.com/logicatexto26.htm">
+											O Princípio Destrópico
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://philpapers.org/surveys/">
+											Phil Papers Survey
+										</a> - Survey of philosophy students which covers a wide amount of data and opinions.
+									</li>									
+									<li class="list-group-item">&#8594;
+										<a href="http://www.notjustatheory.com/">
+											Evolution is not "just a theory"
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://revistacult.uol.com.br/home/2015/04/a-arte-de-escrever-para-idiotas/">
+											A arte de escrever para idiotas
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://filosofiacienciaevida.uol.com.br/ESFI/Edicoes/65/artigo243394-1.asp">
+											A ética do aborto
+										</a>
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="http://libertoprometheo.blogspot.com.br/2016/07/o-minimo-que-olavo-de-carvalho-precisa.html">
+											O mínimo que Olavo de Carvalho precisa saber para não ser um idiota
+										</a>
+									</li>
+
+								</ul>
+							</div>
+						</div>
+					</div>
+
+
 
 				<!-- New section -->
 				<div class="col-lg-8 col-lg-offset-2">
-					<h4>Programming and Linux </h4>
+					<h4>Linux and Software </h4>
 					<div class="smpFix">
 						<p>
 							<a class="btn btn-primary btn-block" data-toggle="collapse" href="#cllps1" aria-expanded="false" aria-controls="cllps1">
@@ -115,6 +280,11 @@
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://www.apachefriends.org/pt_br/download.html">XAMPP</a> - XAMPP comes with the basics for dynamic web development. It's a package with Apache, MariaDB, PHP and Perl.  
+								</li>
+								<li class="list-group-item">&#8594;
+									<a href="https://hackertarget.com/nmap-tutorial/">
+										nmap tutorial											
+									</a> 
 								</li>
 							</ul>
 						</div>
@@ -159,7 +329,7 @@
 						<div class="card card-block">
 							<ul class="list-group">								
 								<li class="list-group-item">
-									<h4> <u> Note: Some links in this section are in portuguese.</u></h4> 
+									<h4> <u> Note: Some links in this section are in portuguese</u></h4> 
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="http://hookr.io/">HOOKR</a>
@@ -204,38 +374,21 @@
 							</ul>
 						</div>
 					</div>
+					
 				
 
-				</div>
-				
-
-				
-
-				</div>
 			</div>
-			<!-- /row -->
+				
+
+				
+
 		</div>
-		<!-- /container -->
 	</div>
-	<!-- /white -->
-	<!-- +++++ Third Post +++++ -->
-	<div id="grey">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<p>
-						<ba>Interesting Links</ba>
-					</p>
-					<p class="bq">
-						<a href="https://bots.botframework.com/bot?id=MorphiBot">MorphBot (Microsoft)</a>
-					</p>
-				</div>
-			</div>
 			<!-- /row -->
-		</div>
+		
 		<!-- /container -->
-	</div>
-	<!-- /grey -->
+	
+	
 	<?php include 'footer.php'; ?>
 	<!-- Bootstrap core JavaScript
 	================================================== -->
