@@ -27,22 +27,9 @@
 				<a class="zoom green" href="vinylage.php"><img class="img-responsive" src="../assets/img/portfolio/vinylage.png" alt="" /></a>
 				<p>VinylAge</p>
 			</div>
-			
 		</div><!-- /row -->
-		<div class="row mt centered">	
-			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void(0)"><img class="img-responsive" src="../assets/img/portfolio/port04.jpg" alt="" /></a>
-				<p>YODA</p>
-			</div>
-			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void(0)"><img class="img-responsive" src="../assets/img/portfolio/port05.jpg" alt="" /></a>
-				<p>EMPERORS</p>
-			</div>
-			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void(0)"><img class="img-responsive" src="../assets/img/portfolio/port06.jpg" alt="" /></a>
-				<p>CHIEFS</p>
-			</div>
-		</div><!-- /row -->
+		<h4> More coming soon... </h4>
+		
 	</div><!-- /container -->
 	
 	
