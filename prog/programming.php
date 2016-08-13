@@ -16,17 +16,18 @@
 		</div>
 		<div class="row mt centered">	
 			<div class="col-lg-4">
-				<a class="zoom green" href="vinylage.php"><img class="img-responsive" src="../assets/img/portfolio/vinylage.png" alt="" /></a>
-				<p>VinylAge</p>
+				<a class="zoom green" href="scripttusweb.php"><img class="img-responsive" src="../assets/img/portfolio/scripttus.png" alt="" /></a>
+				<p>Scripttus</p>
 			</div>
 			<div class="col-lg-4">
 				<a class="zoom green" href="advtime.php"><img class="img-responsive" src="../assets/img/portfolio/advtime.png" alt="" /></a>
 				<p>Adventure Time (pure HTML + CSS)</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void(0)"><img class="img-responsive" src="../assets/img/portfolio/port03.jpg" alt="" /></a>
-				<p>VIKINGS</p>
+				<a class="zoom green" href="vinylage.php"><img class="img-responsive" src="../assets/img/portfolio/vinylage.png" alt="" /></a>
+				<p>VinylAge</p>
 			</div>
+			
 		</div><!-- /row -->
 		<div class="row mt centered">	
 			<div class="col-lg-4">
