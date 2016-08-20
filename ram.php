@@ -264,6 +264,11 @@
 									<a href="http://sft.if.usp.br/debian-cd/">Debian</a> - Linux OS I am currently using. I use the GNOME desktop environment.
 								</li>
 								<li class="list-group-item">&#8594;
+									<a href="http://xenlism.github.io/minimalism/">
+										Xenlism Minimalism								
+									</a> 
+								</li>
+								<li class="list-group-item">&#8594;
 									<a href="https://wiki.debian.org/PepperFlashPlayer/Installing">PepperFlashPlayer</a> - A different version of the Adobe Flash Player that works on Chromium and IceWeasel. It has improved security standarts than the traditional Flash player.
 								</li>
 								<li class="list-group-item">&#8594;
