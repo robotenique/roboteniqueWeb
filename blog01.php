@@ -1,63 +1,49 @@
 <?php include 'header.php' ?>
  
 	
-	<!-- +++++ Post +++++ -->
 	<div id="white">
-	    <div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<p><img src="assets/img/user.png" width="50px" height="50px"> <ba>Stanley Stinson</ba></p>
-					<p><bd>January 3, 2014</bd></p>
-					<h4>An Image Post</h4>
-					<p><img class="img-responsive" src="assets/img/blog01.jpg" alt=""></p>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-					<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-					<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-					<br>
-					<p><bt>TAGS: <a href="#">Wordpress</a> - <a href="#">Web Design</a></bt></p>
-					<hr>
-					<p><a href="blog.html"># Back</a></p>
-				</div>
+		<div class="container">
+			<div class="row"> 
+				<div class="col-lg-8 col-lg-offset-2"> 
+					<p>
+						<img src="assets/img/user.png" width="50px" height="50px"> 
+						<ba>Juliano Garcia</ba>
+					</p>
+					<p><bd>August 21, 2016</bd></p>
+					<h4>Debug C programs using <i> gdb </i></h4>
+					<p><img class="img-responsive" src="assets/img/gdb-logo.png"></p>
+					<p>
+					<b> NOTE: </b> To install gdb in debian, just use <i>4 sudo apt-get gdb</i>.<br>
+					Using gdb helps to debug C programs in real execution time, i.e. you can put break points in the program to evaluate the value of variables, detect when something has gone wrong, and many other uses. Here I'll cover the basics that I use to debug simple programs.
+					</p>
+					<p>
+					<h4> How to use</h4>
+					<ul class="list-group">
+					  <li class="list-group-item">1. Compile it with <i>$ cc -g file.c</i> </li>
+					  <li class="list-group-item">2.Open the generated file with <i> $ gdb a.out </i></li>
+					  <li class="list-group-item">3. The <b>gdb</b> should open it. Now if you want to, you can create a break point using <i> $ break file.c:xx</i> . Replace 'xx' with the number of line to pause the execution</li>
+					<li class="list-group-item">4. Run the program with <i>$ run -v -da -Q </i></li>
+					<li class="list-group-item">5. As the program executes, you can print the value of variables using <i>$ print x </i>, where <b>x </b> is the name of the variable. </li>
+					<li class="list-group-item">6. A segmentation Fault will display more info, allowing you to debug your program more easily! To exit the gdb and go back to your default terminal, just type <i> $ quit </i> </li>
+					</ul>
+					</p>
+					<p>
+					For more information and details about each argument used in the commands, I recommend the following pages:
+					<br><a href="https://gcc.gnu.org/bugs/segfault.html">How to debug a GCC segmentation fault
 
+					</a><br>
+					<a href="http://www.unknownroad.com/rtfm/gdbtut/gdbbreak.html">How do I use breakpoints?</a>
+					</p>			   	
+					<hr><p><a href="index.php">Back</a></p>
+				</div> 
 			</div><!-- /row -->
-	    </div> <!-- /container -->
+		</div> <!-- /container -->
 	</div><!-- /white -->
 	
 	
 	
 	
-	<!-- +++++ Footer Section +++++ -->
-	
-	<div id="footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-4">
-					<h4>My Bunker</h4>
-					<p>
-						Some Address 987,<br/>
-						+34 9054 5455, <br/>
-						Madrid, Spain.
-					</p>
-				</div><!-- /col-lg-4 -->
-				
-				<div class="col-lg-4">
-					<h4>My Links</h4>
-					<p>
-						<a href="#">Dribbble</a><br/>
-						<a href="#">Twitter</a><br/>
-						<a href="#">Facebook</a>
-					</p>
-				</div><!-- /col-lg-4 -->
-				
-				<div class="col-lg-4">
-					<h4>About Stanley</h4>
-					<p>This cute theme was created to showcase your work in a simple way. Use it wisely.</p>
-				</div><!-- /col-lg-4 -->
-			
-			</div>
-		
-		</div>
-	</div>
+<?php include 'footer.php'; ?>
 	
 
     <!-- Bootstrap core JavaScript
@@ -65,4 +51,4 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="assets/js/bootstrap.min.js"></script>
   </body>
-</html>
+</html> 
