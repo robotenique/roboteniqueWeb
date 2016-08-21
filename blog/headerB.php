@@ -21,7 +21,7 @@
     <script src="../assets/js/hover.zoom.js"></script>
     <script src="../assets/js/hover.zoom.conf.js"></script>
     <!--<link href="/assets/img/favicon.ico" rel="icon" type="image/x-icon" /> -->
-
+    
   </head>
   
   <body>
