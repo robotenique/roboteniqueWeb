@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'headerB.php' ?>
  
 	
 	<div id="white">
@@ -6,12 +6,12 @@
 			<div class="row"> 
 				<div class="col-lg-8 col-lg-offset-2"> 
 					<p>
-						<img src="assets/img/user.png" width="50px" height="50px"> 
+						<img src="../assets/img/user.png" width="50px" height="50px"> 
 						<ba>Juliano Garcia</ba>
 					</p>
 					<p><bd>August 21, 2016</bd></p>
 					<h4>Debug C programs using <i> gdb </i></h4>
-					<p><img class="img-responsive" src="assets/img/gdb-logo.png"></p>
+					<p><img class="img-responsive" src="../assets/img/gdb-logo.png"></p>
 					<p>
 					<b> NOTE: </b> To install gdb in debian, just use <i>4 sudo apt-get gdb</i>.<br>
 					Using gdb helps to debug C programs in real execution time, i.e. you can put break points in the program to evaluate the value of variables, detect when something has gone wrong, and many other uses. Here I'll cover the basics that I use to debug simple programs.
@@ -43,7 +43,7 @@
 	
 	
 	
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>
 	
 
     <!-- Bootstrap core JavaScript
