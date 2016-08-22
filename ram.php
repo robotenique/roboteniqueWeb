@@ -97,6 +97,18 @@
 										- An amazing collection of different programming languages exercises, and you can also submit your solution for feedback.
 									</li>
 									<li class="list-group-item">&#8594;
+										<a href="http://www.tutorialspoint.com/">
+											Tutorials Point
+										</a> 
+										- Lots of simples tutorials to get used to something you wanna lear.
+									</li>
+									<li class="list-group-item">&#8594;
+										<a href="https://learnxinyminutes.com/">
+											Learn X in Y minutes
+										</a> 
+										- Learn the basic syntax of a lot of different programming languages.
+									</li>
+									<li class="list-group-item">&#8594;
 										<a href="http://www.extremeprogramming.org/rules.html">
 											The Rules of Extreme Programming
 										</a>
