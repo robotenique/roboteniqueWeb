@@ -34,7 +34,7 @@
 					</a><br>
 					<a href="http://www.unknownroad.com/rtfm/gdbtut/gdbbreak.html">How do I use breakpoints?</a>
 					</p>			   	
-					<hr><p><a href="index.php">Back</a></p>
+					<hr><p><a href="../index.php">Back</a></p>
 				</div> 
 			</div><!-- /row -->
 		</div> <!-- /container -->
