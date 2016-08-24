@@ -1,6 +1,28 @@
 <?php include 'headerB.php' ?>
  
-	
+	<div id="white">
+		<div class="container">
+			<div class="row"> 
+				<div class="col-lg-8 col-lg-offset-2"> 
+					<p>
+						<img src="../assets/img/user.png" width="50px" height="50px"> 
+						<ba>Juliano Garcia</ba>
+					</p>
+					<p><bd>April 24, 2016</bd></p>
+					<h4>How to create an online server in one line of code</h4>
+					<p><img class="img-responsive" src="../assets/img/pythonLO.png"></p>
+					<p>
+						<b><i>Requirements: Python</i></b><br>
+						Just open the terminal and type <i>$ python -m SimpleHTTPServer</i>.
+						The server will be created in the IP of your machine.
+						(To find the IP, type <i>ifconfig -all</i> or <i>ip a</i>.)
+					</p>			   	
+					<hr><p><a href="../index.php">Back</a></p>
+				</div> 
+			</div><!-- /row -->
+		</div> <!-- /container -->
+	</div><!-- /white -->
+
 	<div id="white">
 		<div class="container">
 			<div class="row"> 
@@ -39,6 +61,9 @@
 			</div><!-- /row -->
 		</div> <!-- /container -->
 	</div><!-- /white -->
+
+
+	
 	
 	
 	
