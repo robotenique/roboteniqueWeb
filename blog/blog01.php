@@ -16,6 +16,7 @@
 						Just open the terminal and type <i>$ python -m SimpleHTTPServer</i>.
 						The server will be created in the IP of your machine.
 						(To find the IP, type <i>ifconfig -all</i> or <i>ip a</i>.)
+						<br><u> OBS: </u> If you use a newer version of Python (3.x) you should type <i> $ python -m http.server </i>.
 					</p>			   	
 					<hr><p><a href="../index.php">Back</a></p>
 				</div> 
