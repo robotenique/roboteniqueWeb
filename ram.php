@@ -89,7 +89,7 @@
 					</div>
 						<div class="collapse" id="cllps5">
 							<div class="card card-block">
-								<ul class="list-group">																	
+								<ul class="list-group">										
 									<li class="list-group-item">&#8594;
 										<a href="http://exercism.io/">
 										Exercism
@@ -317,6 +317,12 @@
 					<div class="collapse" id="cllps2">
 						<div class="card card-block">
 							<ul class="list-group">
+								<li class="list-group-item">&#8594;
+										<a href="http://interactivepython.org/runestone/static/pythonds/index.html">
+											Interactive Python
+										</a> 
+										- A complete Python ebook to learn algorithms and data structures!
+								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://www.continuum.io/">Anaconda</a> - Amazing Python platform, with support to multiple Python versions, comes with lots of pre-installed libraries, easy to install everything and easy to use.
 								</li>
