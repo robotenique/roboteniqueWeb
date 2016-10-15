@@ -97,6 +97,12 @@
 										- An amazing collection of different programming languages exercises, and you can also submit your solution for feedback.
 									</li>
 									<li class="list-group-item">&#8594;
+										<a href="https://repl.it/languages">
+											Repl
+										</a> 
+										- A website to run most languages online, very useful.
+									</li>
+									<li class="list-group-item">&#8594;
 										<a href="http://www.tutorialspoint.com/">
 											Tutorials Point
 										</a> 
@@ -279,6 +285,12 @@
 									<a href="http://xenlism.github.io/minimalism/">
 										Xenlism Minimalism								
 									</a> 
+								</li>
+								<li class="list-group-item">&#8594;
+									<a href="https://remarkableapp.github.io/">
+										Remarkable
+									</a> 
+									- Very good markdown editor for linux, live visualization and syntax highlighting! :D
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://wiki.debian.org/PepperFlashPlayer/Installing">PepperFlashPlayer</a> - A different version of the Adobe Flash Player that works on Chromium and IceWeasel. It has improved security standarts than the traditional Flash player.
