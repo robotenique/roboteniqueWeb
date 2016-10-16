@@ -1,4 +1,4 @@
-	
+
 <?php include 'header.php' ?>
 <div class="row mt">
 		<div class="col-lg-6 col-lg-offset-3 centered">
@@ -7,8 +7,8 @@
 		</div>
 </div>
 	<!-- +++++ Second Post +++++ -->
-	
-		<div class="container">
+
+		<div class="container monoFont">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
 					<h4>Miscellaneous</h4>
@@ -39,42 +39,42 @@
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.behindthename.com/random/">
-											Fantasy name generator											
+											Fantasy name generator
 										</a> - Can generate random names with parameters customized by the user.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://crazydavinci.net/tools/strikethrough-text-generator/">
-											Strikethrough text generator										
+											Strikethrough text generator
 										</a> - Generate a text with a line through it, and some other text basic stylization.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.worldometers.info/pt/">
-											WorldoMeters										
+											WorldoMeters
 										</a> - The world in numbers.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://picascii.com/">
-											Picture to ASCII converter																						
+											Picture to ASCII converter
 										</a> - As the name implies, covert pictures to ASCII text.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.di.fm/">
-											Digitally Imported					
+											Digitally Imported
 										</a> - Online eletronic music radio streaming for free, great for programming.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://comicsans.de/">
-											Comic Sans Machine										
+											Comic Sans Machine
 										</a> - Transform all the content of a text in Comic Sans.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://stackedit.io/">
-											StackEdit											
+											StackEdit
 										</a> - In-browser markdown editor.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://gen.lib.rus.ec/">
-											Library Genesis											
+											Library Genesis
 										</a> - Collection of ebooks / PDF's scattered throughout the internet.
 									</li>
 								</ul>
@@ -89,29 +89,29 @@
 					</div>
 						<div class="collapse" id="cllps5">
 							<div class="card card-block">
-								<ul class="list-group">										
+								<ul class="list-group">
 									<li class="list-group-item">&#8594;
 										<a href="http://exercism.io/">
 										Exercism
-										</a> 
+										</a>
 										- An amazing collection of different programming languages exercises, and you can also submit your solution for feedback.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://repl.it/languages">
 											Repl
-										</a> 
+										</a>
 										- A website to run most languages online, very useful.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.tutorialspoint.com/">
 											Tutorials Point
-										</a> 
+										</a>
 										- Lots of simples tutorials to get used to something you wanna lear.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://learnxinyminutes.com/">
 											Learn X in Y minutes
-										</a> 
+										</a>
 										- Learn the basic syntax of a lot of different programming languages.
 									</li>
 									<li class="list-group-item">&#8594;
@@ -126,69 +126,69 @@
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.programmableweb.com/">
-											ProgrammableWeb										
+											ProgrammableWeb
 										</a> - List of almost all kinds of Web API's.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://codebeautify.org/">
-											CodeBeautify									
-										</a> - Very useful website, which contains JSON validator, HTML minifier, beautifier, and lots of other different features. 
+											CodeBeautify
+										</a> - Very useful website, which contains JSON validator, HTML minifier, beautifier, and lots of other different features.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/part_preface.html">
-											How to Design Programs																						
-										</a> 
+											How to Design Programs
+										</a>
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://mega.nz/#F!wVsCjS7A!K7jrAMW6b7RX_AC6TT3msA!IMsBiYLJ">
-											CS Mega folder											
+											CS Mega folder
 										</a> - 'Megaupload' folder with lots of useful books and articles for IT, the majority of them are in portuguese.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.devall.com.br/">
-											/dev/All								
+											/dev/All
 										</a> - IT articles aggregator, in portuguese.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://learnyouahaskell.com/chapters">
-											Learn you a Haskell											
-										</a> - Book to learn the Haskell prog. language. 
+											Learn you a Haskell
+										</a> - Book to learn the Haskell prog. language.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://graphics.stanford.edu/~seander/bithacks.html">
-											Bit Twiddling Hacks										
+											Bit Twiddling Hacks
 										</a> - Code snippets in C language for common binary operations.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.sourcecodesworld.com/project-bank/">
-												Project Bank										
+												Project Bank
 										</a> - Lots of different project ideas to implement.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://github.com/diogocezar/dctb-web-project/ ">
-												Web Development 101										
+												Web Development 101
 										</a> - Portuguese explanation about the steps of a common Web project development.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://github.com/open-source-society/computer-science">
-											Open Computer Science									
+											Open Computer Science
 										</a> - A full course that covers many Computer Science subjects with online courses.
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://it-ebooks-search.info/">
-											IT ebooks									
+											IT ebooks
 										</a>
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.7qfrlko27">
-											Programming resources							
+											Programming resources
 										</a> - Lot's of very useful links to guides, tutorials, articles and books to learn different programming languages and algorithms approaches.
 									</li>
 
 								</ul>
 							</div>
-						</div>							
-					
+						</div>
+
 					<div class="smpFix">
 						<p>
 							<a class="btn btn-primary btn-block" data-toggle="collapse" href="#cllps6" aria-expanded="false" aria-controls="cllps6">
@@ -200,7 +200,7 @@
 							<div class="card card-block">
 								<ul class="list-group">
 									<li class="list-group-item">
-										<h4> <u> Note: Most of the articles in this section are in portuguese</u></h4> 
+										<h4> <u> Note: Most of the articles in this section are in portuguese</u></h4>
 									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://spot.colorado.edu/~morristo/kalam-not.pdf">
@@ -236,7 +236,7 @@
 										<a href="http://philpapers.org/surveys/">
 											Phil Papers Survey
 										</a> - Survey of philosophy students which covers a wide amount of data and opinions.
-									</li>									
+									</li>
 									<li class="list-group-item">&#8594;
 										<a href="http://www.notjustatheory.com/">
 											Evolution is not "just a theory"
@@ -283,13 +283,13 @@
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="http://xenlism.github.io/minimalism/">
-										Xenlism Minimalism								
-									</a> 
+										Xenlism Minimalism
+									</a>
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://remarkableapp.github.io/">
 										Remarkable
-									</a> 
+									</a>
 									- Very good markdown editor for linux, live visualization and syntax highlighting! :D
 								</li>
 								<li class="list-group-item">&#8594;
@@ -299,21 +299,21 @@
 									<a href="https://github.com/robbyrussell/oh-my-zsh">Oh-my-zsh</a> - Oh my Zsh is a framework to use with the Zsh shell (which is a much better shell than Bash). Oh-my-zsh adds support to plugins, easy configurable themes and much more.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="https://github.com/bhilburn/powerlevel9k">PowerLevel9K</a> - A theme / plugin for the ZSH shell. Works perfectly with Oh-my-zsh, fully configurable. 
+									<a href="https://github.com/bhilburn/powerlevel9k">PowerLevel9K</a> - A theme / plugin for the ZSH shell. Works perfectly with Oh-my-zsh, fully configurable.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="https://github.com/unixorn/awesome-zsh-plugins">awesome-zsh-plugins</a> - List of great plugins for all kinds of needs. Install it with oh-my-zsh.	 
+									<a href="https://github.com/unixorn/awesome-zsh-plugins">awesome-zsh-plugins</a> - List of great plugins for all kinds of needs. Install it with oh-my-zsh.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="http://askubuntu.com/questions/226061/how-to-install-the-boot-repair-tool-in-an-ubuntu-live-disc">Boot Repair</a> - An amazing utility to repair GRUB2 boot problems, very useful for dual boot users. 
+									<a href="http://askubuntu.com/questions/226061/how-to-install-the-boot-repair-tool-in-an-ubuntu-live-disc">Boot Repair</a> - An amazing utility to repair GRUB2 boot problems, very useful for dual boot users.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="https://www.apachefriends.org/pt_br/download.html">XAMPP</a> - XAMPP comes with the basics for dynamic web development. It's a package with Apache, MariaDB, PHP and Perl.  
+									<a href="https://www.apachefriends.org/pt_br/download.html">XAMPP</a> - XAMPP comes with the basics for dynamic web development. It's a package with Apache, MariaDB, PHP and Perl.
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://hackertarget.com/nmap-tutorial/">
-										nmap tutorial											
-									</a> 
+										nmap tutorial
+									</a>
 								</li>
 							</ul>
 						</div>
@@ -332,24 +332,24 @@
 								<li class="list-group-item">&#8594;
 										<a href="http://interactivepython.org/runestone/static/pythonds/index.html">
 											Interactive Python
-										</a> 
+										</a>
 										- A complete Python ebook to learn algorithms and data structures!
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://www.continuum.io/">Anaconda</a> - Amazing Python platform, with support to multiple Python versions, comes with lots of pre-installed libraries, easy to install everything and easy to use.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="http://matplotlib.org/">matplotlib</a> - A python 2d plotting library which has support to many different plotting options, very useful for statistical and mathematical python programs.	 
+									<a href="http://matplotlib.org/">matplotlib</a> - A python 2d plotting library which has support to many different plotting options, very useful for statistical and mathematical python programs.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="http://fixer.io/">Fixer.io</a> - JSON API for current / historical exchange rates. It can be used with a variety of different languages, and is very simple to work with. 
+									<a href="http://fixer.io/">Fixer.io</a> - JSON API for current / historical exchange rates. It can be used with a variety of different languages, and is very simple to work with.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="https://github.com/kennethreitz/requests">Requests:HTTP for humans</a> - Not only a complete HTTP library for Python, it's very easy and simple to use, directly to the point with no unecessary workarounds. 
+									<a href="https://github.com/kennethreitz/requests">Requests:HTTP for humans</a> - Not only a complete HTTP library for Python, it's very easy and simple to use, directly to the point with no unecessary workarounds.
 								</li>
 								<li class="list-group-item">&#8594;
-									<a href="http://scrapy.org/">Scrapy</a> - Open source python API to extract data from websites. 
-								</li>							
+									<a href="http://scrapy.org/">Scrapy</a> - Open source python API to extract data from websites.
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -362,9 +362,9 @@
 					</div>
 					<div class="collapse" id="cllps3">
 						<div class="card card-block">
-							<ul class="list-group">								
+							<ul class="list-group">
 								<li class="list-group-item">
-									<h4> <u> Note: Some links in this section are in portuguese</u></h4> 
+									<h4> <u> Note: Some links in this section are in portuguese</u></h4>
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="http://hookr.io/">HOOKR</a>
@@ -377,12 +377,12 @@
 								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://codex.wordpress.org/The_Loop">The Wordpress Loop</a>
-								</li>	
+								</li>
 								<li class="list-group-item">&#8594;
 									<a href="http://seventhqueen.com/support/documentation/kleo">
 										Kleo Wordpress Theme documentation
 									</a>
-								</li>																			
+								</li>
 								<li class="list-group-item">&#8594;
 									<a href=""http://torquemag.io/2014/08/demystifying-object-oriented-php-wordpress-developers/>OBJECT-ORIENTED PHP FOR WORDPRESS DEVELOPERS</a>
 								</li>
@@ -395,12 +395,12 @@
 									<a href="http://www.solostream.com/translate-wordpress-theme/">
 									Translate a WordPress Theme
 									</a>
-								</li>	
+								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://wordpress.org/plugins/">
 									Wordpress featured plugins
 									</a>
-								</li>	
+								</li>
 								<li class="list-group-item">&#8594;
 									<a href="https://premium.wpmudev.org/blog/buddypress-guide/">
 									The Complete Guide to BuddyPress for WordPress
@@ -409,21 +409,21 @@
 							</ul>
 						</div>
 					</div>
-					
-				
+
+
 
 			</div>
-				
 
-				
+
+
 
 		</div>
 	</div>
 			<!-- /row -->
-		
+
 		<!-- /container -->
-	
-	
+
+
 	<?php include 'footer.php'; ?>
 	<!-- Bootstrap core JavaScript
 	================================================== -->

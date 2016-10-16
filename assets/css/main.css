@@ -7,11 +7,13 @@
  * URL: http://blacktie.co
  */
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+ @import url('https://fonts.googleapis.com/css?family=Roboto');
+ @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
 
 body {
   	background-color: #ffffff;
-  	font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #555;
@@ -22,7 +24,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     color: #333;
 }
@@ -95,7 +97,7 @@ a:after {
 }
 
 .navbar-inverse {
-	background: url("../img/staticBg.gif");	
+	background: url("../img/staticBg.gif");
 	border-color: #16a085;
 }
 
@@ -109,7 +111,7 @@ a:after {
 
 .navbar-brand {
 	font-weight: 700;
-	font-size: 20px;
+	font-size: 26px;
 	letter-spacing: 2px;
 }
 
@@ -152,9 +154,9 @@ a:after {
 
 #footer {
 	/*background-color: #22ffff;*/
-	background: url("../img/staticBg2.gif");	
+	background: url("../img/staticBg2.gif");
 	padding-top: 50px;
-	padding-bottom: 50px; 
+	padding-bottom: 50px;
 }
 
 #footer p {
@@ -216,10 +218,10 @@ bt {
 
 /* ================== PORTFOLIO IMAGES HOVER EFFECT ================== */
 /* Effects also are controled by hover.zoom.js */
-.zoom { 
-    display:block; 
-    position:relative; 
-    overflow:hidden; 
+.zoom {
+    display:block;
+    position:relative;
+    overflow:hidden;
     background:transparent url(../img/loader.gif) no-repeat center;
 }
 
@@ -248,3 +250,53 @@ bt {
 	font-size: 40px;
 	color: #1abc9c;
 }
+.navbar-right{
+    font-size: 18px;
+
+}
+.monoFont {
+    font-family: 'Roboto Mono', sans-serif;
+}
+.monoDefault {
+    font-family: 'Roboto', sans-serif;
+}
+
+.Collage{
+
+    /* define how much padding you want in between your images */
+    padding:10px;
+
+    }
+
+.Collage img{
+
+    /* ensures padding at the bottom of the image is correct */
+    vertical-align:bottom;
+
+    /* hide the images until the plugin has run. the plugin will reveal the images*/
+    opacity:0;
+
+    }
+
+    /* In this example, this is the main item being resized */
+    .Image_Wrapper{
+        /* to get the fade in effect, set opacity to 0 on the first element within the gallery area */
+        opacity:0;
+        -moz-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+        -webkit-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+        box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+    }
+
+    .Caption{
+        font-size:14px;
+        font-weight:normal;
+        font-family:arial;
+    }
+    .Caption_Content{
+        /* padding:10px; */
+        color:#FFF;
+        padding:20px;
+    }

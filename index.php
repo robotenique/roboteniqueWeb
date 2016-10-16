@@ -5,11 +5,11 @@
 	<!-- +++++ Welcome Section +++++ -->
 	<div id="ww">
 
-	    <div class="container">
+	    <div class="container centered">
 			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2 centered">
+				<div class="col-lg-16 centered">
                     <img border="0" class="img-responsive" alt="myHome" src="assets/img/robovoid.jpg">
-					<p>Hello everybody, this is my personal page. Here I write some interesting things and sometimes share my programming exercises and other programming I do sometimes :)    </p>
+					<h4 class="monoFont">Hello everybody, this is my personal page. Here I write some interesting things and sometimes share my programming exercises and other programming I do sometimes :)    </h4>
 					<h4>Feel free to check my GitHub ➙ <a href="https://github.com/robotenique">
                     <img border="0" alt="myGit" src="assets/img/robt.png" width="100" height="100">
 </a></h4>
@@ -21,22 +21,36 @@
 
 
 	<!-- +++++ Projects Section +++++ -->
+    <script type="text/javascript">
+    // All images need to be loaded for this plugin to work so
+    // we end up waiting for the whole window to load in this example
+    $('.Collage').removeWhitespace().collagePlus();
+    $(window).load(function () {
+    $('.Collage').collagePlus();
+    });
 
-	<div class="container pt">		
-		<div class="row mt centered">
-			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
-				<p>//◭// の男 S§S //◭// </p>
-			</div>
-			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
-				<p>## SAMSUNG ∞CHVRCH ## </p>
-			</div>
-			<div class="col-lg-4">
-				<a class="zoom green" href="javascript:void()"><img class="img-responsive" src="assets/img/matrix.gif" alt="" /></a>
-				<p>▽▽ CVLT SWΞG ▽▽ </p>
-			</div>
-		</div><!-- /row -->
+    // Here we apply the actual CollagePlus plugin
+    // This is just for the case that the browser window is resized
+    var resizeTimer = null;
+    $(window).bind('resize', function() {
+        // hide all the images until we resize them
+        $('.Collage .Image_Wrapper').css("opacity", 0);
+        // set a timer to re-apply the plugin
+        if (resizeTimer) clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(collage, 200);
+    });
+
+    </script>
+
+	<div class="container centered">
+        <div class="Collage col-lg-16 ">
+            <img src="assets/img/nicey.gif" alt="" />
+            <img src="assets/img/syn1.gif" alt="" />
+            <img src="assets/img/syn2.gif" alt="" />
+            <img src="assets/img/paradise.gif" alt="" />
+            <img src="assets/img/fog.gif" alt="" />
+            <img src="assets/img/palms.gif" alt="" />
+        </div>
 	</div><!-- /container -->
 
 
