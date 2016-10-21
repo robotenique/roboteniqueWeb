@@ -92,12 +92,12 @@ a:after {
 }
 
 .navbar-inverse {
-	padding-bottom: 70px;
-	padding-top: 70px;
+	padding-bottom: 100px;
+	padding-top: 100px;
 }
 
 .navbar-inverse {
-	background: url("../img/staticBg.gif");
+	background: url("../img/nBanne1.jpg");
 	border-color: #16a085;
 }
 
@@ -154,7 +154,7 @@ a:after {
 
 #footer {
 	/*background-color: #22ffff;*/
-	background: url("../img/staticBg2.gif");
+	background: url("../img/nBanne.jpg");
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -300,3 +300,26 @@ bt {
         color:#FFF;
         padding:20px;
     }
+
+/* unvisited link */
+#footer a:link {
+    color: #E0B9F7;
+}
+
+/* visited link */
+#footer a:visited {
+    color: #3DFF77;
+}
+
+/* mouse over link */
+#footer a:hover {
+    color: #3BF2FF;
+}
+
+.navbar-header a:hover {
+    color: #3BF2FF !important;
+}
+/* mouse over link */
+.navbar-nav a:hover {
+    color: #3BF2FF !important;
+}

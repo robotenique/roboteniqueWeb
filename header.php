@@ -26,7 +26,7 @@
   </head>
 
   <body>
-      
+
 
     <!-- Static navbar -->
     <div class="navbar navbar-inverse navbar-static-top">

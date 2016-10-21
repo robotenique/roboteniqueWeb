@@ -1,15 +1,15 @@
 <?php include 'header.php' ?>
 
-<h1 class="centered">Ｒｏｂｏｔｅｎｉｑｕｅ's  	&nbsp; 	&nbsp;Ｈｏｍｅ~</h1>
-
 	<!-- +++++ Welcome Section +++++ -->
 	<div id="ww">
 
-	    <div class="container centered">
+	    <div class="container">
 			<div class="row">
-				<div class="col-lg-16 centered">
-                    <img border="0" class="img-responsive" alt="myHome" src="assets/img/robovoid.jpg">
-					<h4 class="monoFont">Hello everybody, this is my personal page. Here I write some interesting things and sometimes share my programming exercises and other programming I do sometimes :)    </h4>
+				<div class="col-lg-8 col-lg-offset-2 centered">
+					<img border="0" alt="myHome" src="assets/img/floralRobo.png">
+					<h4 class="monoFont">Hello everybody, this is my personal page.
+						Here I write some interesting things and sometimes share
+						 my programming exercises and other programming I do sometimes :)    </h4>
 					<h4>Feel free to check my GitHub ➙ <a href="https://github.com/robotenique">
                     <img border="0" alt="myGit" src="assets/img/robt.png" width="100" height="100">
 </a></h4>
