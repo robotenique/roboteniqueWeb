@@ -8,7 +8,7 @@
     <meta name="author" content="Juliano Garcia">
     <link rel="shortcut icon" href="assets/img/favicon.ico">
 
-    <title>▼▼яоботэийце▼▼</title>
+    <title>▼▼ＪＵＬＩＡＮＯ▼▼</title>
 
     <!-- Bootstrap core CSS-->
     <link href="assets/css/bootstrap.css" rel="stylesheet">

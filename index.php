@@ -7,9 +7,11 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
 					<img border="0" alt="myHome" src="assets/img/floralRobo.png">
-					<h4 class="monoFont">Hello everybody, this is my personal page.
-						Here I write some interesting things and sometimes share
-						 my programming exercises and other programming I do sometimes :)    </h4>
+					<h4 class="monoFont">Hi, I am Juliano Garcia, a Computer Science student, and this is my personal page.
+						   </h4>
+						<h4 class="monoFont">My main areas of interest are AI and machine learning, Python programming language,
+							functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)
+							   </h4>
 					<h4>Feel free to check my GitHub ➙ <a href="https://github.com/robotenique">
                     <img border="0" alt="myGit" src="assets/img/robt.png" width="100" height="100">
 </a></h4>
