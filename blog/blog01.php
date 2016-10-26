@@ -1,27 +1,5 @@
 <?php include 'headerB.php' ?>
- 	<div id="white">
- 		<div class="container">
- 			<div class="row"> 
- 				<div class="col-lg-8 col-lg-offset-2"> 
- 					<p>
- 						<img src="../assets/img/user.png" width="50px" height="50px"> 
- 						<ba>Juliano Garcia</ba>
- 					</p>
- 					<p><bd>October 06, 2016</bd></p>
- 					<h4>Python Map</h4>
- 					<p>
- 						A Subway map to know more about the things you can do with Python! 
- 					</p>
- 					<p>
- 					<a href="../assets/img/pymap.png">
- 					<img class="img-responsive" src="../assets/img/pymap.png">
- 					</a></p> 
- 					by <a href="http://hairysun.com/blog/2014/05/06/subway-map-to-python/">Hairy Sun - Geek blog</a>								   	
- 					<hr><p><a href="../index.php">Back</a></p>
- 				</div> 
- 			</div><!-- /row -->
- 		</div> <!-- /container -->
- 	</div><!-- /white -->
+ 	
 	<div id="white">
 		<div class="container">
 			<div class="row"> 
@@ -83,6 +61,29 @@
 					</p>			   	
 					<hr><p><a href="../index.php">Back</a></p>
 				</div> 
+				<div id="white">
+ 		<div class="container">
+ 			<div class="row"> 
+ 				<div class="col-lg-8 col-lg-offset-2"> 
+ 					<p>
+ 						<img src="../assets/img/user.png" width="50px" height="50px"> 
+ 						<ba>Juliano Garcia</ba>
+ 					</p>
+ 					<p><bd>October 06, 2016</bd></p>
+ 					<h4>Python Map</h4>
+ 					<p>
+ 						A Subway map to know more about the things you can do with Python! 
+ 					</p>
+ 					<p>
+ 					<a href="../assets/img/pymap.png">
+ 					<img class="img-responsive" src="../assets/img/pymap.png">
+ 					</a></p> 
+ 					by <a href="http://hairysun.com/blog/2014/05/06/subway-map-to-python/">Hairy Sun - Geek blog</a>								   	
+ 					<hr><p><a href="../index.php">Back</a></p>
+ 				</div> 
+ 			</div><!-- /row -->
+ 		</div> <!-- /container -->
+ 	</div><!-- /white -->
 			</div><!-- /row -->
 		</div> <!-- /container -->
 	</div><!-- /white -->

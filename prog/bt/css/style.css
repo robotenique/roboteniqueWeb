@@ -1,0 +1,89 @@
+.animated, .title {
+    margin: 25px 50px;
+    font-family: Arial, sans-serif;
+    font-weight: lighter;
+    color: #616161;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.center-left {
+    padding: 10px 0;
+}
+
+.wrapper-center {
+    text-align: center !important;
+}
+
+.centralized {
+    left: 25%;
+}
+
+.fake {
+  visibility: hidden;
+}
+
+#wiki a {
+    color: #FFFFFF;
+}
+
+#wiki a:hover {
+    color: #D0D0EE;
+}
+
+#wiki img {
+    width: 50px;
+}
+
+hr {
+    border-color: #CECECE;
+}
+
+footer {
+    z-index: 100;
+}
+
+iframe {
+    outline: none;
+    border: none;
+}
+
+iframe[seamless] {
+    display: block;
+}
+
+#github {
+    opacity: 30%;
+}
+
+#graph {
+    padding: 15px;
+}
+
+#belowChart button {
+    padding: 6px 22px !important;
+}
+
+#Helpbar {
+    line-height: 1.2 !important;
+    text-align: justify !important;
+    text-justify: inter-word;
+}
+
+#Helpbar p {
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: tili;
+    src: url('cssref/tilireg.ttf');
+}
+#sliderBox {
+    left :0
+}
+#redS  {
+    width: 50%;
+    margin: 15px;
+}
+#redS .ui-slider-range { background: #0000B2; }
+#redS .ui-slider-handle { border-color: #000000; }

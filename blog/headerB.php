@@ -17,7 +17,7 @@
     <!-- Custom styles for this website -->
     <link href="../assets/css/main.css" rel="stylesheet">
 
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../assets/js/jquery-1.10.2.min.js"></script>
     <script src="../assets/js/hover.zoom.js"></script>
     <script src="../assets/js/hover.zoom.conf.js"></script>
     <!--<link href="/assets/img/favicon.ico" rel="icon" type="image/x-icon" /> -->

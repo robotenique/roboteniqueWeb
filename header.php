@@ -15,7 +15,7 @@
 
     <!-- Custom styles for this website -->
     <link href="assets/css/main.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/jquery-1.10.2.min.js"></script>
     <script src="assets/js/jquery.collagePlus.js"></script>
     <script src="assets/js/jquery.removeWhitespace.js"></script>
     <script src="assets/js/jquery.collageCaption.js"></script>

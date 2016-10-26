@@ -16,6 +16,10 @@
 		</div>
 		<div class="row mt centered">
 			<div class="col-lg-4">
+				<a class="zoom green" href="wklaw.php"><img class="img-responsive" src="../assets/img/portfolio/wklaw.png" alt="" /></a>
+				<p>Bernoulli's theorem (statistics)</p>
+			</div>
+			<div class="col-lg-4">
 				<a class="zoom green" href="scripttusweb.php"><img class="img-responsive" src="../assets/img/portfolio/scripttus.png" alt="" /></a>
 				<p>Scripttus</p>
 			</div>
