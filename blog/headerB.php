@@ -1,3 +1,4 @@
+<?php require("../assets/simphp.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -30,7 +30,13 @@
     $(window).load(function () {
     $('.Collage').collagePlus();
     });
-
+    function collage() {
+    $('.Collage').collagePlus(
+        {
+            'fadeSpeed' : 2000
+        }
+    );
+    };
     // Here we apply the actual CollagePlus plugin
     // This is just for the case that the browser window is resized
     var resizeTimer = null;

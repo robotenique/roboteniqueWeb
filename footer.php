@@ -1,14 +1,20 @@
 <!-- +++++ Footer Section +++++ -->
 
+<script type="text/javascript">
+    function h() {
+        $("#loco").toggle();
+    }
+</script>
     <div id="footer">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
                     <h4>﻿☯  ＡｒＴ  ☯</h4>
+                    <span id="loco" style="color: #000000 !important, display: none">Easter Egg :O<br><?php echo $info;?></span>
                     <p>
                         ﻿Sｗｅｅｐｉｎｇ  ｍｙ  ｒｉｖｅｒ<br/>
                     Ｉ  ｄｉｓｃｏｖｅｒｅｄ  ｍｙ  ｌｏｕｎｇｅｓ<br/>
-                        ｂｅｆｏｒｅ  ｍｙ  ｇｒａｖｅｌ.
+                        ｂｅｆｏｒｅ  ｍｙ  <a href="javascript: void(0)" onclick="h()">ｇｒａｖｅｌ.</a>
                     </p>
                 </div><!-- /col-lg-4 -->
 
